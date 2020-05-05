@@ -35,4 +35,4 @@ Note: If the agent should act solely based on the learned weights, it is require
 
 ## Further files
 
-The trained weights are saved in the "checkpoint" files as a PyTorch state dictionary. In order to load the trained weights and continue training based on those weights, the _retrain_ hyperparameter needs to be set to _True_.
+The trained weights are saved in the "checkpoint" files as a PyTorch state dictionary.
